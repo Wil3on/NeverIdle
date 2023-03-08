@@ -1,0 +1,1 @@
+@reboot screen -dmS NeverIdle bash -c '/full/path/to/NeverIdle -c 3h30m17s -m 2 -n 2h24m36s'
